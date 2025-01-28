@@ -24,3 +24,24 @@ To user 1 -------> user 2
 7 (Mail) --------------------------> 1 (10011001)
 
 code manchester : Le codage Manchester est un codage synchrone, ce qui signifie que, outre les données à transmettre, les signaux transmis intègrent également l'horloge de synchronisation nécessaire à leur décodage.
+
+
+Routeur sert a router une route pour un transfert de DATA.
+
+
+Modele TCP/IP
+--------------
+se reduit à 4 couches
+
+
+Protocole IMAP : Mail
+Protocole SNMP	: Gestion de réseau
+Protocole POP3 : Mail
+
+---------------------------------
+
+
+videos note
+-----------
+
+OSI : definit le standard des com.
